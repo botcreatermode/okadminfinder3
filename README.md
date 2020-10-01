@@ -1,11 +1,11 @@
 ![](./Classes/okadminfinder3-.svg)
 <p align="center">
-  <a href="https://www.buymeacoffee.com/michyamrane" target="_blank">
+  <a href="https://www.buymeacoffee.com/botcreatermode" target="_blank">
     <img width="170" height="37" alt="Buy Me A Coffee" src="https://camo.githubusercontent.com/031fc5a134cdca5ae3460822aba371e63f794233/68747470733a2f2f7777772e6275796d6561636f666665652e636f6d2f6173736574732f696d672f637573746f6d5f696d616765732f6f72616e67655f696d672e706e67">
   </a>
 </p>
 
-[![Build Status](https://travis-ci.org/mIcHyAmRaNe/okadminfinder3.svg?branch=master)](https://travis-ci.org/mIcHyAmRaNe/okadminfinder3)
+[![Build Status](https://travis-ci.org/botcreatermode/okadminfinder3.svg?branch=master)](https://travis-ci.org/mIcHyAmRaNe/okadminfinder3)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
 [![GitHub license](https://img.shields.io/github/license/mIcHyAmRaNe/okadminfinder3.svg)](https://github.com/mIcHyAmRaNe/okadminfinder3/blob/master/LICENSE)
 ![](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20osx-lightgrey.svg)
@@ -38,14 +38,14 @@
 
     * #### Linux
        ```
-       git clone https://github.com/mIcHyAmRaNe/okadminfinder3.git
+       git clone https://github.com/botcreatermode/okadminfinder3.git
        cd okadminfinder3
        chmod +x okadminfinder.py
        python3 okadminfinder.py
        ```
 
     * #### Windows
-       download & extract [zip](https://github.com/mIcHyAmRaNe/okadminfinder3/archive/master.zip)
+       download & extract [zip](https://github.com/botcreatermode/okadminfinder3/archive/master.zip)
        ```
        cd okadminfinder3
        py -3 okadminfinder.py
@@ -62,7 +62,7 @@
 - [x] Random-Agents
 - [x] Console work with params, like: `okadminfinder.py -u example.com --proxy 127.0.0.1:8080`
 - [x] Self-Update
-- [ ] Classify [admin panel links](https://github.com/mIcHyAmRaNe/okadminfinder3/blob/master/LinkFile/adminpanellinks.txt) by popularity
+- [ ] Classify [admin panel links](https://github.com/botcreatermode/okadminfinder3/blob/master/LinkFile/adminpanellinks.txt) by popularity
 - [ ] Multithreading, for faster work
 - [ ] Adding more potential admin panel pages
 
